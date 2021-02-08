@@ -1,6 +1,6 @@
 # image_upload_test_app
 
-A new Flutter application.
+upload image to mySQL and show image from server
 
 ## Getting Started
 
